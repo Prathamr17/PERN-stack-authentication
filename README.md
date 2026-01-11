@@ -55,3 +55,9 @@ npm i tailwindcss @tailwindcsss/vite
 npm i axios react-router-dom
 npm run dev
 ```
+
+![Home Page](./screenshots/Home.png)
+![Login Page](./screenshots/Login.png)
+![Register Page](./screenshots/all-in-one.png)
+
+
