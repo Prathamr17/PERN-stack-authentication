@@ -50,6 +50,7 @@ npm run dev
 ### 2 Frontend Setup
 
 ```bash
+cd frontend
 npm i tailwindcss @tailwindcsss/vite
 npm i axios react-router-dom
 npm run dev
